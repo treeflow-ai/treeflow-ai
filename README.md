@@ -1,16 +1,19 @@
-## Hi there 👋
+# TreeFlow AI
 
-<!--
-**treeflow-ai/treeflow-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Automation & Business Systems Engineer**
 
-Here are some ideas to get you started:
+I build practical AI-assisted workflows, internal tools,
+media-processing systems, and business-system integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+* [Context-Aware Bilingual Subtitle Automation](https://github.com/treeflow-ai/context-aware-bilingual-subtitle-automation)
+* [AI Video Production Automation](https://github.com/treeflow-ai/ai-video-production-automation)
+* AI Courseware Automation
+* E-Learning Platform Operations
+
+## Core Technologies
+
+Python • LLM Workflows • SQL • REST APIs • n8n • ComfyUI
+PHP • MySQL • Linux • WordPress • XML Processing
+
