@@ -2,29 +2,32 @@
 
 **Applied AI Automation & Business Systems Engineer**
 
-I build practical AI-assisted workflows, internal tools, and business-system integrations in Python — with deterministic validation, privacy/policy controls, human approval, tests, and clear operational boundaries around the AI layer.
+I build and operate practical AI-assisted workflows, internal tools, web products, and business-system integrations — with deterministic validation, privacy/policy controls, human approval, tests, and clear operational boundaries around the AI layer. The public repositories below are sanitized reference implementations derived from real production requirements and ongoing operational workflows.
 
+**Job focus:** Long-term hands-on engineering role in an established U.S. organization · U.S.-remote preferred · also open to relocate.
 
 ## Featured Projects
 
 ### [AI Audience Ops](https://github.com/treeflow-ai/ai-audience-ops)
-Governed AI workflow that turns natural-language audience requests into validated marketing segments without exposing raw student contact data.
+
+Production-derived governed AI workflow for translating natural-language audience requests into validated marketing segments without allowing the AI layer to bypass privacy, authorization, approval, or audit controls.
 
 - Constrained `AudienceIntent` schema and deterministic policy enforcement
 - Consent, suppression, active-account, and course-eligibility controls
 - Human approval for high-impact audiences and full audit history
 - FastAPI, SQLAlchemy, SQLite, optional OpenAI parser, LearnDash and marketing adapters
-- Credential-free local demo, pytest coverage, Docker, and GitHub Actions CI
-- [~2-minute recruiter overview](https://youtu.be/9STwVwbaNr0) · [~4-minute engineering walkthrough](https://youtu.be/eUC1dkTPuW0)
+- Sanitized, credential-free public reference implementation with pytest coverage, Docker, and GitHub Actions CI
+- [\~2-minute recruiter overview](https://youtu.be/9STwVwbaNr0) · [\~4-minute engineering walkthrough](https://youtu.be/eUC1dkTPuW0)
 
 ### [AI Courseware Automation](https://github.com/treeflow-ai/ai-courseware-automation)
-Multilingual AI-to-LMS automation demo that turns structured AI-generated course artifacts into validated, reviewable WordPress/LifterLMS deployment packages.
+
+Production courseware workflow whose public reference implementation turns structured AI-generated course artifacts into validated, reviewable WordPress/LifterLMS deployment packages.
 
 - Locale-aware input contracts for English and Simplified Chinese
 - Deterministic validation, transformation, packaging, and reviewable SQL generation
 - Human approval controls, automated tests, and CI
-- Public demo stays credential-free by representing upstream transcription/LLM/localization with structured fixtures
-- [~1-minute recruiter overview](https://www.youtube.com/watch?v=6cUtGhiYEPg) · [~4-minute walkthrough](https://www.youtube.com/watch?v=qqivsQ5lN7g)
+- Public reference implementation stays credential-free by representing upstream transcription/LLM/localization with structured fixtures
+- [\~1-minute recruiter overview](https://www.youtube.com/watch?v=6cUtGhiYEPg) · [\~4-minute walkthrough](https://www.youtube.com/watch?v=qqivsQ5lN7g)
 
 ## What I Work With
 
