@@ -8,9 +8,7 @@ media-processing systems, and business-system integrations.
 ## Featured Projects
 
 * [AI Courseware Automation](https://github.com/treeflow-ai/ai-courseware-automation)
-* [AI Video Production Automation](https://github.com/treeflow-ai/ai-video-production-automation)
-* Context-Aware Bilingual Subtitle Automation
-* E-Learning Platform Operations
+* [AI Audience Ops](https://github.com/treeflow-ai/ai-audience-ops)
 
 ## Core Technologies
 
