@@ -4,7 +4,6 @@
 
 I build practical AI-assisted workflows, internal tools, and business-system integrations in Python — with deterministic validation, privacy/policy controls, human approval, tests, and clear operational boundaries around the AI layer.
 
-**Job focus:** U.S.-remote roles preferred · also open to Charlotte, NC and Raleigh-Durham / Research Triangle opportunities.
 
 ## Featured Projects
 
