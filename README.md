@@ -17,7 +17,7 @@ Production-derived governed AI workflow for translating natural-language audienc
 - Human approval for high-impact audiences and full audit history
 - FastAPI, SQLAlchemy, SQLite, optional OpenAI parser, LearnDash and marketing adapters
 - Sanitized, credential-free public reference implementation with pytest coverage, Docker, and GitHub Actions CI
-- [\~2-minute recruiter overview](https://youtu.be/9STwVwbaNr0) · [\~4-minute engineering walkthrough](https://youtu.be/eUC1dkTPuW0)
+- [\~2-minute recruiter overview](https://youtu.be/2HA97gkdYY8) · [\~4-minute engineering walkthrough](https://youtu.be/eUC1dkTPuW0)
 
 ### [AI Courseware Automation](https://github.com/treeflow-ai/ai-courseware-automation)
 
