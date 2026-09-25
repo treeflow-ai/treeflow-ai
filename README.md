@@ -4,7 +4,7 @@
 
 I build and operate practical AI-assisted workflows, internal tools, web products, and business-system integrations — with deterministic validation, privacy/policy controls, human approval, tests, and clear operational boundaries around the AI layer. The public repositories below are sanitized reference implementations derived from real production requirements and ongoing operational workflows.
 
-**Job focus:** Long-term hands-on engineering role in an established U.S. organization · U.S.-remote preferred · also open to relocate.
+**Job focus:** Long-term hands-on engineering role in an established U.S. organization · U.S.-remote preferred.
 
 ## Featured Projects
 
@@ -31,7 +31,7 @@ Production courseware workflow whose public reference implementation turns struc
 
 ## What I Work With
 
-**Applied AI & automation:** LLM workflows · human-in-the-loop systems · n8n · prompt/workflow design · RAG prototypes · speech/text/media automation
+**Applied AI & automation:** LLM workflows · AI agent development · human-in-the-loop systems · prompt/workflow design · RAG prototypes · speech/text/media automation
 
 **Engineering & integration:** Python · SQL · REST APIs · JSON/XML · FastAPI · SQLAlchemy · PHP · MySQL · WordPress · LearnDash/LifterLMS
 
